@@ -1,8 +1,8 @@
 # TraduzAi
 
-TraduzAi é uma aplicação inovadora de tradução desenvolvida para o **HackaTruck MakerSpace**, uma iniciativa da IBM e do Instituto Eldorado. Nosso foco é resolver um problema essencial: entender de forma precisa o que o usuário deseja transmitir e preparar a tradução de maneira correta e adaptada à linguagem-alvo. Com uma abordagem prática e funcional, a aplicação busca oferecer uma experiência de tradução fluida e confiável.
+TraduzAi é uma aplicação tradução desenvolvida para o **HackaTruck MakerSpace**, uma iniciativa da IBM e do Instituto Eldorado em parceria com a Apple. Nosso foco é resolver um problema essencial: entender de forma precisa o que o usuário deseja transmitir e preparar a tradução de maneira correta e adaptada à linguagem-alvo. Com uma abordagem prática e funcional, a aplicação busca oferecer uma experiência de tradução fluida e confiável.
 
-## 📖 História do Projeto
+## História do Projeto
 
 O TraduzAi nasceu durante nossa participação no HackaTruck MakerSpace, um programa que desafia desenvolvedores a criar soluções tecnológicas inovadoras. Identificamos que muitas ferramentas de tradução falham ao interpretar intenções ou ao formatar o texto de maneira adequada ao contexto cultural e linguístico. Assim, nossa equipe decidiu criar uma solução que priorizasse a clareza na comunicação e a precisão nas traduções.
 
@@ -12,26 +12,28 @@ Nas próximas etapas, planejamos aprimorar a aplicação com novas funcionalidad
 
 ---
 
-## 🚀 Funcionalidades Planejadas
+## Funcionalidades
 
-- **Em Breve**
+- Tradução texto para texto
+- Tradução texto para áudio
+- Adaptação do texto para a estrutura correta da linguagem selecionada
+- AdaptaçÃo áudio para a estrutura ideal da linguagem
+- Histórico de traduções
+- Dicionário de palavras
 
 ---
 
-## 📜 Licença de Uso
+## Licença de Uso
 
 O uso do TraduzAi é **livre para fins educacionais e pessoais**. No entanto, para qualquer tipo de **publicação, divulgação comercial, venda ou participação em competições** utilizando esta aplicação, é necessária uma autorização prévia por escrito dos autores.
-
-Caso haja qualquer uso indevido do projeto sem permissão, **medidas judiciais poderão ser tomadas**.
-
-Para solicitar permissão para uso comercial ou publicação, entre em contato via e-mail: rddoisgo@ufu.br.
+Para solicitar permissão para uso comercial ou publicação, entre em contato via e-mail: roosoars@icloud.com / rddoisgo@ufu.br ou com algum membro participante do projeto.
 
 ---
 
-## 📫 Contato
+## Contato
 
-Se você tem interesse em contribuir, sugerir melhorias ou relatar problemas, entre em contato:
+Se você tem interesse em contribuir, sugerir melhorias ou relatar problemas, entre em contato
 
-- 📧 **E-mail:** rddoisgo@ufu.br
+## Obrigado
 
-Agradecemos seu interesse no TraduzAi! Estamos animados para continuar desenvolvendo soluções que aproximem as pessoas por meio da tecnologia. 🚀✨
+Agradecemos seu interesse no TraduzAi! Estamos animados para continuar desenvolvendo soluções que aproximem as pessoas e culturas por meio da tecnologia. 🚀✨
